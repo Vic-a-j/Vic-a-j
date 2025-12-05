@@ -4,7 +4,7 @@
 
 My name is [**Victor Juarez**](https://github.com/Vic-a-j) -
 
-I am a **Software Engineer** (_Bachelor's in Computer Science_) with experience building scalable systems and automation pipelines. I specialize in Python and have hands-on experience with distributed systems, modular backend architectures, and data pipelines using technologies such as: _Celery_, _Kafka_, _RabbitMQ_, _Docker_, _AWS S3_, _Grafana_.
+I am a **Software Engineer** (_Bachelor's in Computer Science_) with experience building scalable systems. I specialize in Python and have hands-on experience with distributed systems, modular backend architectures, and data pipelines using technologies such as: _Celery_, _Kafka_, _RabbitMQ_, _Docker_, _AWS S3_, _Grafana_.
 
 I am open to any back-end opportunities to apply my skills in backend and data engineering.
 
